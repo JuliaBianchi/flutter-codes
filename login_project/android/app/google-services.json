@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "449036669891",
+    "project_id": "database-2716a",
+    "storage_bucket": "database-2716a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:449036669891:android:694f6163f876edf87ae376",
+        "android_client_info": {
+          "package_name": "com.juliabianchi.loginproject"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "449036669891-e2capiupoib7s1hq0huei3h3sotaqcsu.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkmNYm4sFQMO4rPztvVMCOmF4ysHLxrfo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "449036669891-e2capiupoib7s1hq0huei3h3sotaqcsu.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
